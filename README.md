@@ -12,9 +12,9 @@
 Stanford University
 
 
-This is the official implementation of the paper "PHOCUS: Physics-Based Deconvolution for Ultrasound Resolution Enhancement"
+This is the official implementation of the paper "PHOCUS: Physics-Based Deconvolution for Ultrasound Resolution Enhancement".
 
-# Pipeline
+## Pipeline
 <img src='gfx/Network_structure.png'/>
 
 
@@ -37,7 +37,7 @@ Run the program with this command:
 python3 run_nerf.py --config configs/conf_cirs_synthetic_wires.txt
 ```
 
-### Citation 
+## Citation 
 
 Will be updated soon.
 
@@ -50,6 +50,6 @@ Will be updated soon.
 }
 ```
 
-# Acknowledgments
+## Acknowledgments
 
 Large parts of the code are from the [HashNeRF-pytorch](https://github.com/yashbhalgat/HashNeRF-pytorch) implementation. See [ACKNOWLEDGEMENTS](ACKNOWLEDGEMENTS).
