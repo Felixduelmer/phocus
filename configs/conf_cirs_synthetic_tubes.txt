@@ -1,0 +1,8 @@
+expname = cirs_synthetic_tubes_test
+datadir = ./data/cirs_phantom_synthetic/tubes/all_train
+probe_depth = 19.8
+probe_width = 36.8
+signal_frequency = 10000000
+
+num_cycles = 5
+f_number = 2.0

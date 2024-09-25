@@ -1,0 +1,8 @@
+expname = cirs_synthetic_wires
+datadir = ./data/cirs_phantom_synthetic/wires/all_train
+probe_depth = 6.3
+probe_width = 14.4
+signal_frequency = 10000000
+
+num_cycles = 5
+f_number = 2.0

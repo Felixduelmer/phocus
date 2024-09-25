@@ -1,0 +1,28 @@
+loss = ssim
+basedir = ./logs
+dataset_type = us
+sample_factor = 1
+
+random_seed = 0
+lrate = 1e-2
+no_batching = True
+
+perturb = 1.0
+raw_noise_std = 0
+
+lrate_decay = 10
+i_weights = 1000
+
+no_reload = True
+render_only = False
+
+use_viewdirs= False
+i_embed_views=0
+only_inr = True
+output_ch = 1
+i_embed = 1
+
+netdepth = 2
+netwidth = 64
+finest_res = 4096
+log2_hashmap_size = 22
